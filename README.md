@@ -8,7 +8,7 @@ git clone `https://github.com/arshikhwaja/clothing.git`
 
 
 ```
-cd Blaze
+cd clothing
 npm install
 npm run dev
 

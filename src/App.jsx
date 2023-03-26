@@ -8,7 +8,7 @@ import Cart from "./pages/Cart";
 
 const App = () => {
   return (
-    <div style={{backgroundColor:'#fdf7f2'}}>
+    <div>
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
